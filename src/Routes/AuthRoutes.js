@@ -19,8 +19,8 @@ function AuthRoutes() {
         <Stack.Screen name="SignUp" component={SignUpScreen} />
         <Stack.Screen name="ForgotPassword" component={ForgotPassword} />
         <Stack.Screen name="Main" component={MainScreen} />
-        {/* <Stack.Screen name="Logout" component={Logout} /> */}
-        <Stack.Screen name="Drawer" component={Drawernavigation} />
+        <Stack.Screen name="Logout" component={Logout} />
+        {/* <Stack.Screen name="Drawer" component={Drawernavigation} /> */}
         {/*  */}
         {/* <Stack.Screen 
           name="Logout"
